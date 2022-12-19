@@ -1,5 +1,5 @@
 # 💫 About Me:
-A junior programmer based on Jakarta, Indonesia
+ based on Jakarta, Indonesia
 
 
 ## 🌐 Socials:
