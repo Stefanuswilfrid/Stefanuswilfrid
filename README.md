@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate programmer based on Jakart & Melbourne
+Passionate programmer based on Jakarta & Melbourne
 
 
 ## 🌐 Socials:
